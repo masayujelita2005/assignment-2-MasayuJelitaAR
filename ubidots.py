@@ -4,8 +4,8 @@ import requests
 import math
 import random
 
-TOKEN = "BBFF-EvIMYWATzgqXOOEgWzoZ0pt4aWjLSC"  # Put your TOKEN here
-DEVICE_LABEL = "alvinaodra"  # Put your device label here 
+TOKEN = "BBFF-qP2egzLrgcIqsZxzG7ECbHwdr5kSSv"  # Put your TOKEN here
+DEVICE_LABEL = "jelita"  # Put your device label here 
 VARIABLE_LABEL_1 = "ultrasonik_1"  # Put your first variable label here
 VARIABLE_LABEL_2 = "ultrasonik_2"
 
